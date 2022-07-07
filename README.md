@@ -15,6 +15,12 @@
   Aplicação feita em React com o proposito de estudar os Hooks, States e o consumo de API diretamente pelo javascript com uso do fetch, e juntar minhas duas grandes paixôes: Digimon e programação
   
   [API consumida](https://digimon-api.vercel.app/api/digimon)
+  
+  
+  
+  ## 🖼️ Print da aplicação
+  
+  ![print da aplicação](https://github.com/UT0P1C/pokedex-react/blob/master/print.png)
  
 
  
