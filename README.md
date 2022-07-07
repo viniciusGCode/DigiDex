@@ -8,7 +8,7 @@
    
 
 ## 🔧 Tecnologias utilizadas
-  Nesse projeto utilizei apenas a biblioteca reac-router-dom
+  Nesse projeto utilizei apenas a biblioteca react-router-dom
    
 
 ## 🔖 Descrição
