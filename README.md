@@ -20,7 +20,7 @@
   
   ## 🖼️ Print da aplicação
   
-  ![print da aplicação](https://github.com/UT0P1C/pokedex-react/blob/master/print.png)
+  ![print da aplicação](https://github.com/UT0P1C/DigiDex/blob/master/print.png)
  
 
  
